@@ -13,6 +13,8 @@ This is a dynamic sized stack which rises and shrinks its size depending on numb
 
 This is a stack is implemented using linked lists.
 
+These are the stack operations
+
 void push(int data)                  - Push the argument on the stack
 
 int pop()                            - Pop and return the top element of the stack
